@@ -1,0 +1,18 @@
+h1 {
+  color: #22d66e;
+  text-align: right;
+}
+
+h2 {
+  Font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul {
+  font size: 20px;
+  line-height: 30px;
+}
